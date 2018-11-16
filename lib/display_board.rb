@@ -1,6 +1,5 @@
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
-  
+display_board = ["   |   |   "]
+display_board = ["-----------"]
+display_board = ["   |   |   "]
+display_board = ["-----------"]
+display_board = ["   |   |   "]
